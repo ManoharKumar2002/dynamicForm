@@ -19,7 +19,7 @@ function App() {
   const service_ID = 'service_nmy7mcp';
   const tamplate_ID = 'template_i60ppid';
   const public_KEY = '45WgdGRertkajq7RO';
-  const key = '1234' ;
+  const key = 'ht50' ;
   
   // Object to contain Values 
   const template_params = {
